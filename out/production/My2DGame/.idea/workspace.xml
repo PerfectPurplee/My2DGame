@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="27a74ff8-f05d-4bb6-b664-5a3ed825ea64" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main/FrameAtributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main/FrameAtributes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Gamepanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Gamepanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +42,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Main" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="GamePanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main.GamePanel" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
       <module name="My2DGame" />
       <extension name="coverage">
         <pattern>
@@ -57,7 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GamePanel" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -72,7 +78,9 @@
       <workItem from="1676312982162" duration="1800000" />
       <workItem from="1676315014545" duration="4000" />
       <workItem from="1676467189194" duration="244000" />
-      <workItem from="1676468136905" duration="1255000" />
+      <workItem from="1676468136905" duration="2278000" />
+      <workItem from="1676473635736" duration="32000" />
+      <workItem from="1676474521440" duration="1663000" />
     </task>
     <servers />
   </component>
