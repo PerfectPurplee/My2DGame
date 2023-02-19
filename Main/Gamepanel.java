@@ -24,12 +24,14 @@ public class Gamepanel extends JPanel implements Runnable {
     Thread gameThread;
     KeyHandler keyHandler = new KeyHandler();
 
+
     public Gamepanel() {
         this.setPreferredSize(new Dimension(screenWidth, screenHeight));
         this.setBackground(Color.BLACK);
         this.setDoubleBuffered(true);
         this.addKeyListener(keyHandler);
         this.setFocusable(true);
+
     }
 
     public void startGameThread() {
@@ -46,6 +48,7 @@ public class Gamepanel extends JPanel implements Runnable {
             update();
 
             repaint();
+
         }
 
     }
